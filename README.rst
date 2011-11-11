@@ -1,7 +1,7 @@
 Attachment saver
 ================
 
-``attachment-saveri.pl`` is a simple, yet very useful piece of code which helps
+``attachment-saver.pl`` is a simple, yet very useful piece of code which helps
 to meat out email's attachments. It's best used in combination with
 *Mailfilter*, *Procmail* or similar.
 
